@@ -1,0 +1,1 @@
+Ahora si se puede crear la carpeta debido a que ahora tiene el archivo respuesta.txt dentro de ella, y por ello pude hacer un commit 
