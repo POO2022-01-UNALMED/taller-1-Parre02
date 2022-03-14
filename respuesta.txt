@@ -1,1 +1,0 @@
-Si hubo un problema debido a que la carpeta estaba vacia y por ello no salia para poderla agregar al repositorio con git add, y creandola desde el repo y haciendo un pull, el archivo que se lee no es una carpeta si no un archivo no definido.
